@@ -1,0 +1,14 @@
+/home/osegura/Cursos/C#/TestProject/bin/Debug/net8.0/TestProject
+/home/osegura/Cursos/C#/TestProject/bin/Debug/net8.0/TestProject.deps.json
+/home/osegura/Cursos/C#/TestProject/bin/Debug/net8.0/TestProject.runtimeconfig.json
+/home/osegura/Cursos/C#/TestProject/bin/Debug/net8.0/TestProject.dll
+/home/osegura/Cursos/C#/TestProject/bin/Debug/net8.0/TestProject.pdb
+/home/osegura/Cursos/C#/TestProject/obj/Debug/net8.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/osegura/Cursos/C#/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfoInputs.cache
+/home/osegura/Cursos/C#/TestProject/obj/Debug/net8.0/TestProject.AssemblyInfo.cs
+/home/osegura/Cursos/C#/TestProject/obj/Debug/net8.0/TestProject.csproj.CoreCompileInputs.cache
+/home/osegura/Cursos/C#/TestProject/obj/Debug/net8.0/TestProject.dll
+/home/osegura/Cursos/C#/TestProject/obj/Debug/net8.0/refint/TestProject.dll
+/home/osegura/Cursos/C#/TestProject/obj/Debug/net8.0/TestProject.pdb
+/home/osegura/Cursos/C#/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
+/home/osegura/Cursos/C#/TestProject/obj/Debug/net8.0/ref/TestProject.dll
