@@ -12,3 +12,4 @@
 /home/osegura/Cursos/C#/TestProject/obj/Debug/net8.0/TestProject.pdb
 /home/osegura/Cursos/C#/TestProject/obj/Debug/net8.0/TestProject.genruntimeconfig.cache
 /home/osegura/Cursos/C#/TestProject/obj/Debug/net8.0/ref/TestProject.dll
+/home/osegura/Cursos/C#/TestProject/obj/Debug/net8.0/TestProject.sourcelink.json
