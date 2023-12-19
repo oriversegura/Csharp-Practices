@@ -1,1 +1,1 @@
-Code of Practices Microsoft Course C#
+# This is a simple practices of Microsoft C# Course.git
